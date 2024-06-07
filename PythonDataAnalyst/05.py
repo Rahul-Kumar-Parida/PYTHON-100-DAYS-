@@ -48,6 +48,11 @@ print(int(aa)+int(bb))
 
 # Taking user input
 
-a = input("Enter Your Name: ")
-b = input("Enter Your Name: ")
-print("Your Name IS:", a+b)
+# a = input("Enter Your Name: ")
+# b = input("Enter Your Name: ")
+# print("Your Name IS:", a+b)
+
+
+# bv= input()
+# cv= input()
+# print(int(bv)+int(cv))
